@@ -16,13 +16,12 @@ My background spans enterprise clients including **Tesco Bank**, **NHS**, and **
 A tool for finding and exploring Scotland's 282 Munros. Features hike time estimation using Naismith's Rule and route data via the OpenRouteService API. Built with the kind of obsessive detail you'd expect from someone who actually walks up these things.
 
 ### 🌦️ [conditiontrack](https://github.com/micboyd/conditiontrack)
-A condition tracking application — more details on the repo.
+A conditioning tracking application — more details on the repo. It's a bit old now, but I have plans to rebuild this in React.
 
 ## A bit more about me
 
-- 🎓 HND in Computing from Edinburgh College — self-taught from there
 - 🚐 Own a self-converted Vauxhall Combo campervan
-- 🥾 Regular hill walker — you'll find me on Arthur's Seat most weeks
+- 🥾 Regular hill walker — you'll find me on Arthur's Seat most days
 - 🌍 Always planning the next trip
 
 ## Get in touch
