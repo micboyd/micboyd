@@ -26,4 +26,4 @@ A conditioning tracking application - more details on the repo. It's a bit old n
 
 ## Get in touch
 
-🔗 [michaelboyd.co](https://michaelboyd.co)
+🔗 [michaelboyd.co](https://mb-personal-site.netlify.app)
