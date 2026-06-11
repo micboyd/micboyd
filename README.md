@@ -18,6 +18,9 @@ Don't be fooled by the name (it's old!) - I have rebuilt this app from the groun
 ### 🌦️ [conditiontrack](https://github.com/micboyd/conditiontrack)
 A conditioning tracking application - more details on the repo. It's a bit old now, but I have plans to rebuild this in React.
 
+### 🗂️ [adminlife](https://adminlife.co)
+A personal "life admin" dashboard that pulls the boring-but-important stuff into one place - calendar, finances, and budgeting. Built on the MERN stack (MongoDB · Express · React · Node) with TypeScript throughout, and backed by a hand-rolled component library and design system so every page stays consistent. The bit I'm most proud of: it's genuinely something I use myself, not just a portfolio piece.
+
 ## A bit more about me
 
 - 🚐 Own a self-converted Vauxhall Combo campervan
